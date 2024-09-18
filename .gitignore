@@ -1,0 +1,8 @@
+
+/.vs
+/EventHubSampleSendData/bin
+/EventHubSampleSendData/obj
+/EventhubSenderConsole/obj
+/EventhubSenderConsole/bin
+/packages
+/EventHubSampleSendData/.vs
